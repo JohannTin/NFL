@@ -1,0 +1,12 @@
+.DS_Store
+._*
+refresh.sh
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs and temp files
+*.log
+*.tmp
