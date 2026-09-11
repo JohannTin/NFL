@@ -1,0 +1,4 @@
+player_name,market,side,point,book,region,odds,stake_units
+Jordan Whittington,player_receptions,under,0.5,betmgm,us,165.0,1.0
+Tyler Higbee,player_reception_yds,under,16.5,fanduel,us,-113.0,1.0
+Blake Corum,player_rush_attempts,under,10.5,bet365,us,-111.0,1.0
