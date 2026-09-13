@@ -10,3 +10,5 @@ venv/
 # Logs and temp files
 *.log
 *.tmp
+
+refresh.sh
