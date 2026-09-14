@@ -1,4 +1,31 @@
 player_name,market,side,point,book,region,odds,stake_units
-Jordan Whittington,player_receptions,under,0.5,betmgm,us,165.0,1.0
-Tyler Higbee,player_reception_yds,under,16.5,fanduel,us,-113.0,1.0
-Blake Corum,player_rush_attempts,under,10.5,bet365,us,-111.0,1.0
+Drake London,player_receptions,under,4.5,betmgm,us,140.0,1.0
+Michael Pittman Jr.,player_receptions,under,3.5,fanduel,us,140.0,1.0
+Darnell Washington,player_receptions,under,1.5,betmgm,us,140.0,1.0
+Pat Freiermuth,player_receptions,under,2.5,fanduel,us,118.0,1.0
+Lamar Jackson,player_rush_attempts,under,6.5,betmgm,us,115.0,1.0
+Zay Flowers,player_receptions,under,4.5,fanduel,us,128.0,1.0
+Rashod Bateman,player_receptions,under,1.5,fanduel,us,152.0,1.0
+Justice Hill,player_reception_yds,under,11.5,betrivers,us,-110.0,1.0
+Jonathan Taylor,player_receptions,under,2.5,betmgm,us,105.0,1.0
+James Cook,player_receptions,under,2.5,draftkings,us,108.0,1.0
+David Montgomery,player_rush_attempts,under,13.5,draftkings,us,-104.0,1.0
+Dalton Kincaid,player_receptions,under,3.5,draftkings,us,-112.0,1.0
+Luther Burden III,player_receptions,under,4.5,fanduel,us,112.0,1.0
+Jonathon Brooks,player_rush_attempts,under,8.5,betmgm,us,-111.0,1.0
+Bryce Young,player_pass_completions,under,19.5,draftkings,us,105.0,1.0
+Darren Waller,player_receptions,under,1.5,fanduel,us,140.0,1.0
+Chris Olave,player_receptions,under,6.5,betmgm,us,-125.0,1.0
+Breece Hall,player_receptions,under,2.5,betmgm,us,125.0,1.0
+Tony Pollard,player_rush_attempts,under,13.5,betmgm,us,-111.0,1.0
+Emeka Egbuka,player_receptions,under,4.5,draftkings,us,-119.0,1.0
+Tee Higgins,player_receptions,under,4.5,fanduel,us,112.0,1.0
+Baker Mayfield,player_rush_attempts,under,3.5,draftkings,us,-125.0,1.0
+Kendrick Bourne,player_receptions,under,2.5,bet365,us,-147.0,1.0
+Marvin Harrison Jr.,player_receptions,under,3.5,bet365,us,120.0,1.0
+Jayden Reed,player_receptions,under,3.5,bet365,us,125.0,1.0
+Marshawn Lloyd,player_rush_attempts,under,11.5,bet365,us,100.0,1.0
+T.J. Hockenson,player_receptions,under,3.5,bet365,us,-141.0,1.0
+Kirk Cousins,player_rush_yds,under,0.5,bet365,us,-135.0,1.0
+Malik Willis,player_rush_attempts,under,7.5,bet365,us,-120.0,1.0
+Cam Skattebo,player_rush_attempts,under,12.5,bet365,us,-116.0,1.0
